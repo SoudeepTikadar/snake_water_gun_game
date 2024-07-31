@@ -1,2 +1,3 @@
 # snake_water_gun_game
-This is snake-water-gun game.
+This is a snake-water-gun game.
+Author- Soudeep Tikadar
